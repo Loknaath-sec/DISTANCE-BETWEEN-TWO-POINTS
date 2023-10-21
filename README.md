@@ -4,13 +4,16 @@
 To write a python program to find the distance between two points
 ## ALGORITHM:
 ### Step 1: 
+Giving values to the point x1 and x2
 ### Step 2: 
+Giving values to the point y1 and y2
 ### Step 3: 
 Substitute the values in the distance formula 
 ![Dis formula](https://github.com/Loknaath-sec/DISTANCE-BETWEEN-TWO-POINTS/assets/145742558/6c338a2e-7066-4963-ad7b-f28093c4e380)
-
 ### Step 4: 
+Calculating the distance using normal method to make the code simple
 ### Step 5: 
+At last, print the distance value
 ### PROGRAM:
 ```
 #Program to find the distance between two points.
