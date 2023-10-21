@@ -6,9 +6,10 @@ To write a python program to find the distance between two points
 ### Step 1: 
 ### Step 2: 
 ### Step 3: 
+```
 Substitute the values in the distance formula 
 ![Dis formula](https://github.com/Loknaath-sec/DISTANCE-BETWEEN-TWO-POINTS/assets/145742558/6c338a2e-7066-4963-ad7b-f28093c4e380)
-
+```
 ### Step 4: 
 ### Step 5: 
 ### PROGRAM:
